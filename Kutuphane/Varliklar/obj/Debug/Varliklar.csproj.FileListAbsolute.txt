@@ -1,0 +1,42 @@
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Varliklar\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Varliklar\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 9. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Varliklar\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Varliklar\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 10. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Varliklar\bin\Debug\Varliklar.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Varliklar\bin\Debug\Varliklar.pdb
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.AssemblyReference.cache
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.CoreCompileInputs.cache
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.dll
+E:\Buse Çil Proje 10. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Varliklar\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Varliklar\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Varliklar\obj\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 11\Kutuphane\Varliklar\obj\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Varliklar\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Varliklar\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Varliklar\obj\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 12\Kutuphane\Varliklar\obj\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 13. Hafta\Kutuphane\Varliklar\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 13. Hafta\Kutuphane\Varliklar\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\Buse Çil Proje 13. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 13. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\Buse Çil Proje 13. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\Buse Çil Proje 13. Hafta\Kutuphane\Varliklar\obj\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\BUSE SON HAFTap\Kutuphane\Varliklar\bin\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\BUSE SON HAFTap\Kutuphane\Varliklar\bin\Debug\Varliklar.pdb
+C:\Users\MSİ\Desktop\BUSE SON HAFTap\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\BUSE SON HAFTap\Kutuphane\Varliklar\obj\Debug\Varliklar.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\BUSE SON HAFTap\Kutuphane\Varliklar\obj\Debug\Varliklar.dll
+C:\Users\MSİ\Desktop\BUSE SON HAFTap\Kutuphane\Varliklar\obj\Debug\Varliklar.pdb
